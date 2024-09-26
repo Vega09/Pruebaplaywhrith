@@ -14,7 +14,7 @@ comando de intalacion
 -npx playwright install
 
 comando para ejecutar tag
--npm run test-uat --tags="@creacion_empleado"
+-npm run test-uat --tags="@creacion_empleado5"
 
 CASOS DE PRUEBA: Herramienta Array Ortogonal
 1. Acceso a OrangeHRM
